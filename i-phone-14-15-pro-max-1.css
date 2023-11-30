@@ -1,0 +1,317 @@
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  width: 430px;
+  height: 245px;
+  object-fit: cover;
+}
+.art-of-dishes,
+.indian-desi-food,
+.indian-starters,
+.sweet-category {
+  position: absolute;
+  font-family: var(--font-bigshot-one);
+  display: inline-block;
+  width: 314px;
+  height: 52px;
+}
+.art-of-dishes {
+  top: 202px;
+  left: 16px;
+  font-size: 35px;
+}
+.indian-desi-food,
+.indian-starters,
+.sweet-category {
+  top: 302px;
+  left: 15px;
+  font-size: var(--font-size-11xl);
+}
+.indian-starters,
+.sweet-category {
+  top: 850px;
+  left: 14px;
+}
+.sweet-category {
+  top: 562px;
+  left: 19px;
+}
+.biryani,
+.c-u-i,
+.rs-300 {
+  position: absolute;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.c-u-i {
+  top: 254px;
+  left: 144px;
+  font-size: 25px;
+  font-family: var(--font-bigshot-one);
+}
+.biryani,
+.rs-300 {
+  top: 449px;
+  left: 37px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.rs-300 {
+  top: 481px;
+  font-size: var(--font-size-lg);
+}
+.icon-magnifying-glass {
+  position: absolute;
+  height: 2.58%;
+  width: 6.28%;
+  top: 5.15%;
+  right: 16.74%;
+  bottom: 92.27%;
+  left: 76.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.iconoiradd-to-cart1 {
+  position: absolute;
+  top: 45px;
+  left: 379px;
+  width: 28px;
+  height: 31px;
+  overflow: hidden;
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-orangered);
+  width: 82px;
+  height: 24px;
+}
+.add-cart7 {
+  position: absolute;
+  top: 4px;
+  left: 13px;
+  font-weight: 800;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 513px;
+  left: 29px;
+  width: 82px;
+  height: 24px;
+}
+.cheese-cake,
+.rs-1100,
+.rs-99 {
+  position: absolute;
+  top: 737px;
+  left: 159px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.rs-1100,
+.rs-99 {
+  top: 769px;
+  left: 170px;
+  font-size: var(--font-size-lg);
+}
+.rs-99 {
+  left: 322px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 801px;
+  left: 177px;
+  width: 82px;
+  height: 24px;
+}
+.fudge-brownie,
+.rs-150 {
+  position: absolute;
+  top: 737px;
+  left: 11px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.rs-150 {
+  top: 769px;
+  left: 39px;
+  font-size: var(--font-size-lg);
+}
+.karahi,
+.rectangle-parent9 {
+  position: absolute;
+  top: 801px;
+  left: 31px;
+  width: 82px;
+  height: 24px;
+}
+.karahi {
+  top: 450px;
+  left: 182px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.rectangle-parent12,
+.rs-550 {
+  position: absolute;
+  top: 522px;
+  left: 316px;
+  width: 82px;
+  height: 24px;
+}
+.rs-550 {
+  top: 482px;
+  left: 182px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 514px;
+  left: 174px;
+  width: 82px;
+  height: 24px;
+}
+.iphone-14-15-pro-max-1-child {
+  position: absolute;
+  top: 586px;
+  left: 254px;
+  width: 158px;
+  height: 1px;
+}
+.frozen-shake,
+.iphone-14-15-pro-max-1-item {
+  position: absolute;
+  top: 318.5px;
+  left: 262px;
+  width: 151px;
+  height: 1px;
+}
+.frozen-shake {
+  top: 740px;
+  left: 300px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.nihari,
+.rectangle-parent14,
+.rs-3001 {
+  position: absolute;
+  top: 804px;
+  left: 311px;
+  width: 82px;
+  height: 24px;
+}
+.nihari,
+.rs-3001 {
+  top: 458px;
+  left: 328px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.rs-3001 {
+  top: 490px;
+  font-size: var(--font-size-lg);
+}
+.image-11-icon,
+.image-12-icon,
+.image-3-icon,
+.image-4-icon,
+.image-5-icon,
+.image-9-icon {
+  position: absolute;
+  top: 350px;
+  left: 12px;
+  border-radius: var(--br-3xs);
+  width: 125px;
+  height: 91.7px;
+  object-fit: cover;
+}
+.image-11-icon,
+.image-12-icon,
+.image-4-icon,
+.image-5-icon,
+.image-9-icon {
+  left: 153px;
+  height: 83.3px;
+}
+.image-11-icon,
+.image-12-icon,
+.image-5-icon,
+.image-9-icon {
+  top: 347px;
+  left: 294px;
+  height: 95.1px;
+}
+.image-11-icon,
+.image-12-icon,
+.image-9-icon {
+  top: 610px;
+  left: 14px;
+  height: 97.1px;
+}
+.image-11-icon,
+.image-12-icon {
+  left: 296px;
+  height: 105.4px;
+}
+.image-12-icon {
+  top: 615px;
+  left: 155px;
+  height: 87.6px;
+}
+.iphone-14-15-pro-max-1-inner {
+  position: absolute;
+  top: 875.5px;
+  left: 259px;
+  width: 158px;
+  height: 1px;
+}
+.icon-magnifying-glass1 {
+  position: absolute;
+  height: 9.71%;
+  width: 21.05%;
+  top: 375.43%;
+  right: -85.93%;
+  bottom: -285.14%;
+  left: 164.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iphone-14-15-pro-max-1 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

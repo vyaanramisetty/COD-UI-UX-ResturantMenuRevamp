@@ -1,0 +1,272 @@
+.iconoiradd-to-cart {
+  position: absolute;
+  top: 13px;
+  left: 366px;
+  width: 39px;
+  height: 32px;
+  overflow: hidden;
+}
+.group-child,
+.iphone-14-15-pro-max-2-child {
+  position: absolute;
+  top: 18px;
+  left: 15.5px;
+  width: 29.5px;
+  height: 22.1px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: var(--color-white);
+  width: 335px;
+  height: 50px;
+}
+.search-food {
+  position: absolute;
+  top: 15.6px;
+  left: 13.6px;
+  font-weight: 300;
+  display: inline-block;
+  width: 134px;
+  height: 18.9px;
+}
+.ictwotone-search-icon {
+  position: absolute;
+  top: 11.1px;
+  left: 289.6px;
+  width: 27.3px;
+  height: 26.7px;
+  overflow: hidden;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 69px;
+  left: 21px;
+  width: 335px;
+  height: 50px;
+  font-size: 14px;
+  color: var(--color-black);
+}
+.ionfilter-sharp-icon {
+  position: absolute;
+  top: 75px;
+  left: 371px;
+  width: 34px;
+  height: 27px;
+  overflow: hidden;
+}
+.image-14-icon {
+  position: absolute;
+  top: 148px;
+  left: 21px;
+  border-radius: var(--br-3xs);
+  width: 150px;
+  height: 91.8px;
+  object-fit: cover;
+}
+.image-15-icon,
+.image-16-icon,
+.image-17-icon,
+.image-18-icon,
+.image-19-icon {
+  position: absolute;
+  top: 259px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  width: 150px;
+  height: 112.4px;
+  object-fit: cover;
+}
+.image-16-icon,
+.image-17-icon,
+.image-18-icon,
+.image-19-icon {
+  top: 389px;
+  left: 21px;
+  height: 84.3px;
+}
+.image-17-icon,
+.image-18-icon,
+.image-19-icon {
+  top: 493px;
+  height: 99.2px;
+}
+.image-18-icon,
+.image-19-icon {
+  top: 621px;
+  height: 124px;
+}
+.image-19-icon {
+  top: 774px;
+  left: 20px;
+  height: 108.6px;
+}
+.classic-burger,
+.rs-200 {
+  position: absolute;
+  top: 152px;
+  left: 207px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.rs-200 {
+  top: 184px;
+  font-size: var(--font-size-lg);
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-orangered);
+  width: 82px;
+  height: 24px;
+}
+.add-cart {
+  position: absolute;
+  top: 4px;
+  left: 13px;
+  font-weight: 800;
+}
+.rectangle-group {
+  position: absolute;
+  top: 216px;
+  left: 199px;
+  width: 82px;
+  height: 24px;
+}
+.chicken-chowmein {
+  position: absolute;
+  top: 271px;
+  left: 207px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 201px;
+  height: 26px;
+}
+.chicken-steak,
+.club-sandwich,
+.corn-co-soup,
+.fajita-pizza-medium,
+.rs-110,
+.rs-2001,
+.rs-350,
+.rs-400,
+.rs-700 {
+  position: absolute;
+  top: 385px;
+  left: 212px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 148px;
+  height: 26px;
+}
+.chicken-steak,
+.club-sandwich,
+.fajita-pizza-medium,
+.rs-110,
+.rs-2001,
+.rs-350,
+.rs-400,
+.rs-700 {
+  top: 499px;
+  left: 207px;
+}
+.club-sandwich,
+.fajita-pizza-medium,
+.rs-110,
+.rs-2001,
+.rs-350,
+.rs-400,
+.rs-700 {
+  top: 632px;
+  left: 198px;
+  width: 212px;
+}
+.club-sandwich,
+.rs-110,
+.rs-2001,
+.rs-350,
+.rs-400,
+.rs-700 {
+  top: 784px;
+  left: 206px;
+  width: 148px;
+}
+.rs-110,
+.rs-2001,
+.rs-350,
+.rs-400,
+.rs-700 {
+  top: 303px;
+  left: 207px;
+  font-size: var(--font-size-lg);
+}
+.rs-110,
+.rs-2001,
+.rs-400,
+.rs-700 {
+  top: 417px;
+  left: 212px;
+}
+.rs-110,
+.rs-400,
+.rs-700 {
+  top: 531px;
+  left: 207px;
+}
+.rs-110,
+.rs-400 {
+  top: 664px;
+  left: 215px;
+}
+.rs-110 {
+  top: 816px;
+  left: 206px;
+}
+.rectangle-container,
+.rectangle-parent1 {
+  position: absolute;
+  top: 335px;
+  left: 199px;
+  width: 82px;
+  height: 24px;
+}
+.rectangle-parent1 {
+  top: 449px;
+  left: 204px;
+}
+.rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4 {
+  position: absolute;
+  top: 560px;
+  left: 204px;
+  width: 82px;
+  height: 24px;
+}
+.rectangle-parent3,
+.rectangle-parent4 {
+  top: 696px;
+}
+.rectangle-parent4 {
+  top: 848px;
+  left: 207px;
+}
+.iphone-14-15-pro-max-2 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
